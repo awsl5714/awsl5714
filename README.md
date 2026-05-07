@@ -16,4 +16,4 @@
 * **Tools & Environments:** Linux, Conda, Git, AutoDL
 
 📫 **How to reach me**
-* Email: [2250031360@student.must.edu.mo]
+* Email: 2250031360@student.must.edu.mo
